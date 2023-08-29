@@ -23,7 +23,7 @@ mongoose.connect(`mongodb+srv://${process.env.DB_USERNAME}:${process.env.DB_PASS
 //Utiliser des middleware pour l'analyse JSOn
 app.use(express.json());
 
-//Utilisation des middleware de helmet//
+
 
 
 //Configurer les en tête CORS//

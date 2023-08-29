@@ -154,5 +154,3 @@ exports.likeDislikeSauce = (req, res, next) => {
     });
 };
 
-
-//dotenv  toute les valeurs sensble lses filtrer remplace les valeurs par des clefs dans un autre fichier dans gitignore  configurer dans app.js  dans ressource openclassrooms dan fichier env(variable environnement)
